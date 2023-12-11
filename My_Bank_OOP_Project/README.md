@@ -1,0 +1,2 @@
+This App generates random users but have specific Account No for Command Prompt. By default it generate 3 random users which have Account no: 2021, 2022 and 2023 respectively. 
+pls use Acoount no mentioned above to check the functionality.
